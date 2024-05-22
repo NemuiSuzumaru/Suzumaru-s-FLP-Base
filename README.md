@@ -1,4 +1,4 @@
-# Suzumaru-s-FLP-Base
+# Suzumaru's FLP Base
 My public downloadable FLP's (NO MIDI).
 All of the things in here are made by **ME** (Nemui Suzumaru).
 **Credit if you use these things**.
